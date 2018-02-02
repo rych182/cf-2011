@@ -5,7 +5,7 @@
 	<title>Calculadora</title>
 </head>
 <body>
-	<h2>La pinshi calculadora del rick.</h2>
+	<h2>Calculadora del rick.</h2>
 <form action="calculadora1.php" method="post" name="calc">
 	<label for="">Coloca los valores:</label><br><br>
 	<input type="text" name="c1"><br><br>
@@ -18,6 +18,8 @@
 		<option value="division">Division</option>
 	</select>
 	<input type="submit" value="Cliqueame">
+	<br><br>
+	
 </form>
 </body>
 </html>
