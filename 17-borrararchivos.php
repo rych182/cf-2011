@@ -9,6 +9,5 @@
 		<input type="file" name="archivo">
 		<input type="submit" value="Borrar">
 	</form>
-	<a href="../php/index.html">Regresar al menú.</a>
 </body>
 </html>
